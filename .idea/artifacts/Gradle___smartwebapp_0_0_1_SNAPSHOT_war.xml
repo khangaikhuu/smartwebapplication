@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : smartwebapp-0.0.1-SNAPSHOT.war">
+    <output-path>$PROJECT_DIR$/smartwebapp/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$/smartwebapp" />
+    </properties>
+    <root id="archive" name="smartwebapp-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Gradle : smartwebapp-0.0.1-SNAPSHOT.war (exploded)" />
+    </root>
+  </artifact>
+</component>

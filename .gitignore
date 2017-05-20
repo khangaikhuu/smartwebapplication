@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/workspace.xml
+smartwebapp/build
+smartwebapp/gradle
+smartwebapp/gradlew
+smartwebapp/gradlew.bat
+
+
+.idea/artifacts/
+.idea/compiler.xml
+.idea/gradle.xml
+.idea/libraries/
+.idea/modules/
+

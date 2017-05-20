@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/smartwebapp/smartwebapp.iml" filepath="$PROJECT_DIR$/smartwebapp/smartwebapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smartwebapp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/smartwebapp_main.iml" group="smartwebapp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smartwebapp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/smartwebapp_test.iml" group="smartwebapp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/smartwebapplication.iml" filepath="$PROJECT_DIR$/.idea/smartwebapplication.iml" />
+    </modules>
+  </component>
+</project>
