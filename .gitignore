@@ -13,3 +13,11 @@ smartwebapp/gradlew.bat
 .idea/libraries/
 .idea/modules/
 
+smartwebapp/src/main/resources/static/
+smartwebapp/src/main/resources/templates/
+smartwebapp/src/main/webapp/
+smartwebapp/src/test/resources/
+src/main/resources/static/
+src/main/resources/templates/
+src/main/webapp/
+src/test/resources/
